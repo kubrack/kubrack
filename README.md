@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi everyone! 
+
+My previous project is over and now I am looking for a new role as Clojure, Erlang, C, Perl developer. [My CV](http://a.tim.ua).
 
 <!--
 **kubrack/kubrack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
